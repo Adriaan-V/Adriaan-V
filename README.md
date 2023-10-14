@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Adriaan-V.
+- 👀 I’m interested in coding, reading, photo-, and videography.
+- 🌱 I’m currently learning web development (HTML, CSS, JS).
